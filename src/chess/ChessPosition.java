@@ -19,7 +19,6 @@ public class ChessPosition {
 		return column;
 	}
 
-
 	public int getRow() {
 		return row;
 	}
@@ -36,5 +35,4 @@ public class ChessPosition {
 	public String toString() {
 		return "" + column + row; 
 	}
-
 }
